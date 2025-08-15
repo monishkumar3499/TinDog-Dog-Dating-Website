@@ -17,5 +17,5 @@ TinDog is a fun, responsive website built using **HTML** and **CSS**, inspired b
 
 ## 💻 Preview
 
-You can view a live demo (if deployed) or open the `index.html` file in your browser.
+You can view a live demo at https://monishkumar3499.github.io/TinDog-Dog-Dating-Website/
 
